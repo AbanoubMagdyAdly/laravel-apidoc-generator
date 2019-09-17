@@ -1,5 +1,5 @@
 {
-    "name": "AbanoubMagdyAdly/laravel-apidoc-generator",
+    "name": "abanoubmagdyadly/laravel-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
     "keywords": [
@@ -8,7 +8,7 @@
         "Laravel",
         "RequestClass"
     ],
-    "homepage": "http://github.com/AbanoubMagdyAdly/laravel-apidoc-generator",
+    "homepage": "http://github.com/abanoubmagdyadly/laravel-apidoc-generator",
     "authors": [{
             "name": "Abanoub Magdy Adly",
             "email": "abanoub.magdy.adly@gmail.com"
